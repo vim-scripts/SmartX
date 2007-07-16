@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1958
+
+This script will autmatically delete \X escapes when the cursor is on the \ and you press X in normal mode or after the X and you press backspace in insert mode.  X and the delete key in normal mode and the delete key in insert mode also work.
+
